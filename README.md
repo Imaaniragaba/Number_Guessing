@@ -1,0 +1,1 @@
+A simple python program that generates a random number and prompts the user to guess the number. In this program I covered some concepts such as importing modules in python, using Python methods as well as while loops and if statements. Try it out.
